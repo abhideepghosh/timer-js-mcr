@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+}
+
+.timer {
+  display: flex;
+  justify-content: space-between;
+}
+.button-section {
+  display: flex;
+  justify-content: space-between;
+}
+.btn-primary {
+  border: 0.5px solid gray;
+  border-radius: 5px;
+  width: 50px;
+  padding: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+.time {
+  border: 0.5px solid gray;
+  border-radius: 5px;
+  width: 50px;
+  padding: 5px;
+  margin: 5px;
+}
+span {
+  padding: 5px;
+  margin: 5px;
+}
